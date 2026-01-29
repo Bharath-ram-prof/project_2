@@ -1,0 +1,25 @@
+{
+  "name": "project_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "start": "node src/index.js",
+  "dev": "nodemon src/index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharath-ram-prof/project_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bharath-ram-prof/project_2/issues"
+  },
+  "homepage": "https://github.com/Bharath-ram-prof/project_2#readme",
+
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
